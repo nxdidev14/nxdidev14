@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/view/mikasa-ackerman-gif-24158202.gif" alt="Mikasa Ackerman GIF" width="300" height="150" style="border-radius:50%;"/>
+  <img src="https://tenor.com/view/mikasa-ackerman-mikasa-attack-on-titan-aot-gif-20753795.gif" width="280" height="150" style="border-radius:50%;alt="Mikasa Ackerman GIF" />
   </div>
 
 # Welcome To My GitHub Profile !..
