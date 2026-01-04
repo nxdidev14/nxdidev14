@@ -66,26 +66,27 @@
 
 🌸 **Software Developer | Flutter Enthusiast**  
 I enjoy creating clean, smooth and visually pleasing mobile experiences.  
-For me, good UI is not just design — it’s a feeling.  
+For me, good UI is not just design — it’s an emotion.  
 
 💌 **What I’ve Built Recently**  
-A real-time chat application where I worked mainly on:  
+A real-time chat application "Encryptic" where I worked mainly on:  
 • Flutter UI & screens  
 • REST API integration  
 • JSON data handling  
 • Supabase as the database  
 (Backend handled by team using JWT, Spring Boot & WebSocket)  
 
-🎧 **Beyond Code**  
-Anime & calm web-series, journaling and novels,  
-chess for strategy, baking for comfort,  
+💤 **Beyond Code**  
+🧣Anime & calm web-series,
+📖journaling and novels,  
+♟️chess for strategy,👩🏻‍🍳 baking for comfort,  
 🎶 listening to music while coding,  
 and ✈️ travelling to explore new places and perspectives.  
 
 🌱 **Right Now**  
-Actively exploring **Flutter / Software Developer opportunities**,  
-learning every day, refining my skills  
-and building things at my own steady pace ✨  
+-Actively exploring **Flutter / Software Developer opportunities**,  
+-learning every day, refining my skills  
+-and building things at my own steady pace ✨  
 🩷 Open to collaborations, learning & meaningful work in tech.
 
 ---
