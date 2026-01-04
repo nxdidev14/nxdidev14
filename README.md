@@ -56,9 +56,8 @@
 
 <!-- Eat Sleep Repeat -->
 <div align="center">    
-<img src="https://i.imgur.com/Me2pZcK.png" width="256" height="256" alt="Eat Sleep Repeat" style="border-radius:15px;"/>  
-</div>  
-
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="256" height="256" alt="Eat Sleep Repeat" />  
+</div>
 ---
 
 ## 👩🏻‍💻 About Me (Pinterest Style)
