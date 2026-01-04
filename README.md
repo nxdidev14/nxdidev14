@@ -63,16 +63,39 @@
 
 ---
 
-## 👩🏻‍💻 About Me (Pinterest Style)
+## 👩🏻‍💻 About Me
 
-<div align="center" style="background:#1E1E2F; border-radius:15px; padding:20px; width:90%; max-width:700px;">
-<p style="font-family: 'Courier New', monospace; font-size:16px; color:#FFFFFF; line-height:1.5;">
-💡 <b>Software Explorer:</b> I dive into code with curiosity and love crafting smart solutions.<br>
-💻 <b>Projects:</b> Currently developing a <i>ChatApp</i> using Flutter frontend magic.<br>
-🎨 <b>Creative Vibes:</b> Anime, web series, movies, journaling – fueling my imagination.<br>
-♟️ <b>Hobbies:</b> Chess, baking, reading novels, and exploring new tech trends.<br>
-🌱 <b>Goal:</b> Innovate, learn, and collaborate with amazing minds in the tech universe.
-</p>
+<div align="center" style="display:flex; flex-direct
+
+<!-- Card 1: Identity -->
+<div style="background:#7E3ACE1A; padding:15px; border-radius:15px; max-width:600px; text-align:left;">
+🟣 <strong>Software Developer & Flutter Enthusiast</strong>  
+💡 Love crafting smooth UI & seamless user experiences  
+</div>
+
+<!-- Card 2: ChatApp Project -->
+<div style="background:#6BCB77AA; padding:15px; border-radius:15px; max-width:600px; text-align:left;">
+🟢 <strong>Featured Project: ChatApp</strong>  
+🎨 Built **UI + integrated APIs + JSON handling**  
+💾 Supabase DB | 🔒 Backend: JWT + Spring Boot + WebSocket *(team-handled)*  
+</div>
+
+<!-- Card 3: Hobbies & Fun -->
+<div style="background:#FFD93D66; padding:15px; border-radius:15px; max-width:600px; text-align:left;">
+🟡 <strong>Hobbies & Fun</strong>  
+✨ Anime & web-series binge  
+📖 Journaling & novels  
+♟️ Chess & strategy games  
+🍰 Cooking & baking  
+</div>
+
+<!-- Card 4: Goal & Vibe -->
+<div style="background:#4D96FF33; padding:15px; border-radius:15px; max-width:600px; text-align:left;">
+🔵 <strong>Goal & Vibe</strong>  
+🌱 Keep learning, building, and making cool apps  
+🤝 Connect with devs, share ideas & collaborate  
+</div>
+
 </div>
 
 ---
