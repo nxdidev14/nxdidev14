@@ -41,11 +41,13 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin-bottom:20px;">
 <img src="https://img.icons8.com/color/48/000000/dart.png" width="50px"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" width="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="50px"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50px"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50px"/>
 <img src="https://img.icons8.com/color/48/000000/sql.png" width="50px"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png" width="50px"/>
+ <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40px" alt="Firebase" />
+<img src="https://img.icons8.com/ios/50/000000/supabase.png" width="40px" alt="Supabase" />
+<img src="https://img.icons8.com/ios-filled/50/000000/api.png" width="40px" alt="REST API" />
 <img src="https://img.icons8.com/color/48/000000/android-os.png" width="50px"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" width="50px"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="50px"/>
