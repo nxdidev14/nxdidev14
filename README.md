@@ -32,7 +32,7 @@
 
 <!-- Coding GIF -->
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Anmol-Baranwal/Cool-GIFs-For-GitHub/animated-github.gif" width="200" alt="Animated GitHub Logo GIF" />
+<img src="https://cdn.jsdelivr.net/gh/Anmol-Baranwal/Cool-GIFs-For-GitHub/octocat.gif" width="200" alt="Animated Octocat" />
 </div>
 
 ---
