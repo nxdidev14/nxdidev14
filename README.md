@@ -105,9 +105,28 @@ and ✈️ travelling to explore new places and perspectives.
 ## 📊 My GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nxdidev14&show_icons=true&theme=midnight-purple&hide_border=true"/>
-<br/>
-<img src="https://streak-stats.demolab.com/?user=nxdidev14&theme=midnight-purple&hide_border=true"/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nxdidev14&show_icons=true&theme=midnight-purple&hide_border=true" 
+    width="420"
+  />
+
+  <br/><br/>
+
+  <img 
+    src="https://streak-stats.demolab.com?user=nxdidev14&theme=midnight-purple&hide_border=true" 
+    width="420"
+  />
+
+  <br/><br/>
+
+  <a href="https://github.com/nxdidev14">
+    <img 
+      src="https://img.shields.io/github/followers/nxdidev14?style=for-the-badge&labelColor=7E3ACE&color=181717" 
+      alt="GitHub Followers"
+    />
+  </a>
+
 </div>
 
 ---
