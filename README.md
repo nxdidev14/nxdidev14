@@ -102,32 +102,52 @@ and ✈️ travelling to explore new places and perspectives.
 
 ---
 
-## 📊 My GitHub Stats
+<!-- ===================== GITHUB STATS SECTION ===================== -->
 
+## 📊 GitHub Stats
+
+<!-- Contribution Graph (Past → Present) -->
 <div align="center">
-
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=nxdidev14&show_icons=true&theme=midnight-purple&hide_border=true" 
-    width="420"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nxdidev14&theme=tokyo-night&hide_border=true" 
+    width="100%"
+    alt="GitHub Contribution Graph"
   />
-
-  <br/><br/>
-
-  <img 
-    src="https://streak-stats.demolab.com?user=nxdidev14&theme=midnight-purple&hide_border=true" 
-    width="420"
-  />
-
-  <br/><br/>
-
-  <a href="https://github.com/nxdidev14">
-    <img 
-      src="https://img.shields.io/github/followers/nxdidev14?style=for-the-badge&labelColor=7E3ACE&color=181717" 
-      alt="GitHub Followers"
-    />
-  </a>
-
 </div>
+
+<br/>
+
+<!-- Streak Stats -->
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=nxdidev14&theme=tokyo-night&hide_border=true" 
+    width="420"
+    alt="GitHub Streak"
+  />
+</div>
+
+<br/>
+
+<!-- Most Used Languages (All Repos) -->
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxdidev14&layout=compact&theme=tokyo-night&hide_border=true" 
+    width="360"
+    alt="Top Languages"
+  />
+</div>
+
+<br/>
+
+<!-- Soft Anime Divider -->
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=120&section=footer"
+    alt="Divider"
+  />
+</div>
+
+<!-- ===================== END ===================== -->
 
 ---
 
