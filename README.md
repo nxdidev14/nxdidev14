@@ -11,6 +11,7 @@
 </div>  
 
 <!-- Social Icons - Dark Theme Friendly -->
+(Ways to reach me;))
 <div align="center" style="margin-top:10px;">
   <a href="https://www.linkedin.com/in/nidhiagarwal14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,9 +32,10 @@
 <br/>
 
 <!-- Coding GIF -->
-<div align="center">    
-<img src="https://i.imgur.com/x1Hhf8P.gif" width="400" height="250" alt="Girl Coding GIF" style="border-radius:10px;"/>    
-</div>    
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/Anmol-Baranwal/Cool-GIFs-For-GitHub/animated-github.gif" width="200" alt="Animated GitHub Logo GIF" />
+</div>
 
 ---
 
