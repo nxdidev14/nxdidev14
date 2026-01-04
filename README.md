@@ -12,6 +12,18 @@
 
 <!-- Social Icons - Dark Theme Friendly -->
 <div align="center" style="margin-top:10px;">
+
+<a href="https://www.linkedin.com/in/nidhiagarwal14" target="_blank">
+<img align="left" width="22px" src="https://github.com/user-attachments/assets/ea42aed4-1665-45a8-b10f-1b87c49271b8" />
+</a>
+
+
+
+
+
+
+
+  
   <a href="https://www.linkedin.com/in/nidhiagarwal14" target="_blank">
     <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/linkedin.png" alt="LinkedIn"/>
   </a>  
