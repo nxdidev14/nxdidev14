@@ -32,7 +32,7 @@
 
 <!-- Coding GIF -->
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Anmol-Baranwal/Cool-GIFs-For-GitHub/octocat.gif" width="200" alt="Animated Octocat" />
+  <img src="https://tenor.com/view/typing-anime-coding-gif-13243654847988652639.gif" width="350" style="border-radius:50%; alt="Anime Coding GIF" />
 </div>
 
 ---
