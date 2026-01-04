@@ -102,7 +102,10 @@ Leave a message 👉
 https://github.com/nxdidev14/nxdidev14/issues/new
 
 ---
-
-<div align="center">
-<img width="100%" src="https://i.imgur.com/2KZFRJc.png" style="border-radius:15px;"/>
-</div>
+<p align="center">💙 If you like my repos, Give them ⭐ and Share them with your friends!</p>  <div align="center">  
+    <a href="https://git.io/typing-svg">  
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >  
+    </a>  
+</div>  <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>  
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>  
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>...
