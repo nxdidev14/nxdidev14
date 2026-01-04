@@ -62,41 +62,31 @@
 </div>
 
 ---
+## 👩🏻‍💻 About Me  
 
-## 👩🏻‍💻 About Me
+🌸 **Software Developer | Flutter Enthusiast**  
+I enjoy creating clean, smooth and visually pleasing mobile experiences.  
+For me, good UI is not just design — it’s a feeling.  
 
-<div align="center" style="display:flex; flex-direction:column; gap:20px;">
+💌 **What I’ve Built Recently**  
+A real-time chat application where I worked mainly on:  
+• Flutter UI & screens  
+• REST API integration  
+• JSON data handling  
+• Supabase as the database  
+(Backend handled by team using JWT, Spring Boot & WebSocket)  
 
-  <!-- Card 1: Identity -->
-<div style="background:#7E3ACE1A; padding:15px; border-radius:15px; max-width:600px; text-align:left;">
-🟣 <strong>Software Developer & Flutter Enthusiast</strong>  
-💡 Love crafting smooth UI & seamless user experiences  
-</div>
+🎧 **Beyond Code**  
+Anime & calm web-series, journaling and novels,  
+chess for strategy, baking for comfort,  
+🎶 listening to music while coding,  
+and ✈️ travelling to explore new places and perspectives.  
 
-<!-- Card 2: ChatApp Project -->
-<div style="background:#6BCB77AA; padding:15px; border-radius:15px; max-width:600px; text-align:left;">
-🟢 <strong>Featured Project: ChatApp</strong>  
-🎨 Built **UI + integrated APIs + JSON handling**  
-💾 Supabase DB | 🔒 Backend: JWT + Spring Boot + WebSocket *(team-handled)*  
-</div>
-
-<!-- Card 3: Hobbies & Fun -->
-<div style="background:#FFD93D66; padding:15px; border-radius:15px; max-width:600px; text-align:left;">
-🟡 <strong>Hobbies & Fun</strong>  
-✨ Anime binge  
-📖 Journaling & novels  
-♟️ Chess & strategy games  
-🍰 Cooking & baking  
-</div>
-
-<!-- Card 4: Goal & Vibe -->
-<div style="background:#4D96FF33; padding:15px; border-radius:15px; max-width:600px; text-align:left;">
-🔵 <strong>Goal & Vibe</strong>  
-🌱 Keep learning, building, and making cool apps  
-🤝 Connect with devs, share ideas & collaborate  
-</div>
-
-</div>
+🌱 **Right Now**  
+Actively exploring **Flutter / Software Developer opportunities**,  
+learning every day, refining my skills  
+and building things at my own steady pace ✨  
+🩷 Open to collaborations, learning & meaningful work in tech.
 
 ---
 
