@@ -56,7 +56,7 @@
 
 <!-- Eat Sleep Repeat -->
 <div align="center">
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="256" height="256" alt="Eat Sleep Repeat" />
+  <img src="https://tenor.com/view/code-coding-programming-computer-science-gif-16596559.gif" alt="Coding Loop GIF" width="256" height="256" />
 </div>
 
 ---
