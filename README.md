@@ -1,1 +1,108 @@
-.
+<div align="center">    
+<img src="https://i.imgur.com/8Km9tLL.png" alt="GitHub Avatar" width="150" height="150" style="border-radius:50%;"/>    
+</div>  
+
+# Welcome To My GitHub Profile !..
+
+<div align="center">    
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=550&lines=Hey,+I'm+Nidhi!;She/her;CS+Engineering+Student;Rajasthan+India">
+</a>    
+</div>  
+
+<!-- Social Icons - Dark Theme Friendly -->
+<div align="center" style="margin-top:10px;">
+  <a href="https://www.linkedin.com/in/nidhiagarwal14" target="_blank">
+    <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/linkedin.png" alt="LinkedIn"/>
+  </a>  
+  <a href="https://www.instagram.com/_aggarwal_nidhi_/" target="_blank">
+    <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/instagram-new.png" alt="Instagram"/>
+  </a>  
+  <a href="mailto:agarwalnidhii14@gmail.com">
+    <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/gmail.png" alt="Gmail"/>
+  </a>  
+  <a href="https://x.com/_Nidhi_Aggarwal" target="_blank">
+    <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/twitter--v1.png" alt="Twitter"/>
+  </a>  
+  <a href="https://dev.to/nidhi_agarwal_" target="_blank">
+    <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/dev-to.png" alt="Dev.to"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Coding GIF -->
+<div align="center">    
+<img src="https://i.imgur.com/x1Hhf8P.gif" width="400" height="250" alt="Girl Coding GIF" style="border-radius:10px;"/>    
+</div>    
+
+---
+
+## 🛠 Languages, Technologies & Tools
+
+<div align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap; margin-bottom:20px;">
+<img src="https://img.icons8.com/color/48/000000/dart.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/android-os.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/android-studio.png" width="50px"/>
+</div>
+
+---
+
+<!-- Eat Sleep Repeat -->
+<div align="center">    
+<img src="https://i.imgur.com/Me2pZcK.png" width="256" height="256" alt="Eat Sleep Repeat" style="border-radius:15px;"/>  
+</div>  
+
+---
+
+## 👩🏻‍💻 About Me (Pinterest Style)
+
+<div align="center" style="background:#1E1E2F; border-radius:15px; padding:20px; width:90%; max-width:700px;">
+<p style="font-family: 'Courier New', monospace; font-size:16px; color:#FFFFFF; line-height:1.5;">
+💡 <b>Passionate Software Explorer:</b> I dive deep into code and love creating solutions that make life simpler.<br>
+💻 <b>Projects in Motion:</b> Currently shaping a <i>ChatApp</i> with Flutter frontend magic.<br>
+🎨 <b>Creative Side:</b> Anime, movies, web series & journaling fill my imagination.<br>
+♟️ <b>Hobbies:</b> Chess, baking, reading novels, and discovering new tech trends.<br>
+🌱 <b>Goals:</b> Innovate, learn, and connect with brilliant minds in the coding universe.
+</p>
+</div>
+
+---
+
+## :zany_face: Joke of the day
+
+<details>    
+<summary>See joke</summary>    
+<a href="https://github.com/ABSphreak/readme-jokes">    
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</a>    
+</details>  
+
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nxdidev14&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=nxdidev14&theme=midnight-purple&hide_border=true"/>
+</div>
+
+---
+
+## 📖 Guestbook
+Leave a message 👉  
+https://github.com/nxdidev14/nxdidev14/issues/new
+
+---
+
+<div align="center">
+<img width="100%" src="https://i.imgur.com/2KZFRJc.png" style="border-radius:15px;"/>
+</div>
