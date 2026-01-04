@@ -65,9 +65,9 @@
 
 ## 👩🏻‍💻 About Me
 
-<div align="center" style="display:flex; flex-direct
+<div align="center" style="display:flex; flex-direction:column; gap:20px;">
 
-<!-- Card 1: Identity -->
+  <!-- Card 1: Identity -->
 <div style="background:#7E3ACE1A; padding:15px; border-radius:15px; max-width:600px; text-align:left;">
 🟣 <strong>Software Developer & Flutter Enthusiast</strong>  
 💡 Love crafting smooth UI & seamless user experiences  
@@ -83,7 +83,7 @@
 <!-- Card 3: Hobbies & Fun -->
 <div style="background:#FFD93D66; padding:15px; border-radius:15px; max-width:600px; text-align:left;">
 🟡 <strong>Hobbies & Fun</strong>  
-✨ Anime & web-series binge  
+✨ Anime binge  
 📖 Journaling & novels  
 ♟️ Chess & strategy games  
 🍰 Cooking & baking  
