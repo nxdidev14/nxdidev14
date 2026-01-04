@@ -52,8 +52,8 @@
 <img src="https://github.com/user-attachments/assets/bc4c297c-040a-4f3b-9490-53ff3b4686cd" width="26px"/>
 <img src="https://github.com/user-attachments/assets/83dd1ac6-54b3-4458-907e-85d918eecad2" width="26px"/>
 
-<div align="center">  
-<img src="https://github.com/user-attachments/assets/e09d4219-57f7-4af9-8906-bd837b735e70" width="256" />  
+<div align="center">
+ <img src="assets/eatsleepcode.png" width="256" height="256" />
 </div>  
 
 ---
