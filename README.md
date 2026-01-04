@@ -12,35 +12,22 @@
 
 <!-- Social Icons - Dark Theme Friendly -->
 <div align="center" style="margin-top:10px;">
-
-<a href="https://www.linkedin.com/in/nidhiagarwal14" target="_blank">
-<img align="left" width="22px" src="https://github.com/user-attachments/assets/ea42aed4-1665-45a8-b10f-1b87c49271b8" />
-</a>
-
-
-
-
-
-
-
-  
   <a href="https://www.linkedin.com/in/nidhiagarwal14" target="_blank">
-    <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/linkedin.png" alt="LinkedIn"/>
-  </a>  
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/_aggarwal_nidhi_/" target="_blank">
-    <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/instagram-new.png" alt="Instagram"/>
-  </a>  
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:agarwalnidhii14@gmail.com">
-    <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/gmail.png" alt="Gmail"/>
-  </a>  
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://x.com/_Nidhi_Aggarwal" target="_blank">
-    <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/twitter--v1.png" alt="Twitter"/>
-  </a>  
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
   <a href="https://dev.to/nidhi_agarwal_" target="_blank">
-    <img width="28px" src="https://img.icons8.com/ios-glyphs/48/ffffff/dev-to.png" alt="Dev.to"/>
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev-to&logoColor=white" />
   </a>
 </div>
-
 <br/>
 
 <!-- Coding GIF -->
